@@ -1,2 +1,2 @@
-# symon.github.
+# symon.github.io
 kişisel website
